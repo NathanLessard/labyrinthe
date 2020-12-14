@@ -10,197 +10,160 @@ script = ExtResource( 2 )
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 32, 32 )
-baseCouleur = Color( 0.588235, 0.792157, 1, 1 )
 
 [node name="noeud1" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 96, 32 )
-baseCouleur = Color( 0.607843, 0.607843, 0.607843, 1 )
 
 [node name="noeud2" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 160, 32 )
-baseCouleur = Color( 1, 1, 1, 1 )
 
 [node name="noeud3" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 224, 32 )
-baseCouleur = Color( 1, 1, 1, 1 )
 
 [node name="noeud4" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 288, 32 )
-baseCouleur = Color( 1, 1, 1, 1 )
 
 [node name="noeud5" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 32, 96 )
-baseCouleur = Color( 1, 1, 1, 1 )
 
 [node name="noeud6" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 96, 96 )
-baseCouleur = Color( 0.607843, 0.607843, 0.607843, 1 )
 
 [node name="noeud7" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 160, 96 )
-baseCouleur = Color( 1, 1, 1, 1 )
 
 [node name="noeud8" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 224, 96 )
-baseCouleur = Color( 0.607843, 0.607843, 0.607843, 1 )
 
 [node name="noeud9" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 288, 96 )
-baseCouleur = Color( 0.870588, 0.309804, 0.309804, 1 )
 
 [node name="noeud10" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 32, 160 )
-baseCouleur = Color( 1, 1, 1, 1 )
 
 [node name="noeud11" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 96, 160 )
-baseCouleur = Color( 1, 1, 1, 1 )
 
 [node name="noeud12" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 160, 160 )
-baseCouleur = Color( 1, 1, 1, 1 )
 
 [node name="noeud13" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 224, 160 )
-baseCouleur = Color( 0.607843, 0.607843, 0.607843, 1 )
 
 [node name="noeud14" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 288, 160 )
-baseCouleur = Color( 1, 1, 1, 1 )
 
 [node name="noeud15" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 32, 224 )
-baseCouleur = Color( 1, 1, 1, 1 )
 
 [node name="noeud16" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 96, 224 )
-baseCouleur = Color( 0.607843, 0.607843, 0.607843, 1 )
 
 [node name="noeud17" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 160, 224 )
-baseCouleur = Color( 1, 1, 1, 1 )
 
 [node name="noeud18" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 224, 224 )
-baseCouleur = Color( 0.607843, 0.607843, 0.607843, 1 )
 
 [node name="noeud19" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 288, 224 )
-baseCouleur = Color( 1, 1, 1, 1 )
 
 [node name="noeud20" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 32, 288 )
-baseCouleur = Color( 1, 1, 1, 1 )
 
 [node name="noeud21" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 96, 288 )
-baseCouleur = Color( 1, 1, 1, 1 )
 
 [node name="noeud22" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 160, 288 )
-baseCouleur = Color( 1, 1, 1, 1 )
 
 [node name="noeud23" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 224, 288 )
-baseCouleur = Color( 1, 1, 1, 1 )
 
 [node name="noeud24" parent="." groups=[
 "noeuds",
 ] instance=ExtResource( 1 )]
 position = Vector2( 288, 288 )
-baseCouleur = Color( 1, 1, 1, 1 )
-
-[node name="largeur" type="Button" parent="."]
-anchor_left = 1.0
-anchor_right = 1.0
-margin_left = -154.0
-margin_top = 44.0
-margin_right = -1.0
-margin_bottom = 64.0
-text = "Parcourir en largeur"
-__meta__ = {
-"_edit_use_anchors_": true
-}
 
 [node name="runTime" type="Timer" parent="."]
 
-[node name="recommencer" type="Button" parent="."]
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
 anchor_top = 1.0
 anchor_right = 1.0
 anchor_bottom = 1.0
-margin_top = -20.0
-text = "Recommencer"
+margin_top = -61.0
+margin_bottom = 1.0
 __meta__ = {
-"_edit_use_anchors_": true
+"_edit_use_anchors_": false
 }
 
-[node name="profondeur" type="Button" parent="."]
-margin_left = 861.0
-margin_top = 24.0
+[node name="tmap" type="Label" parent="VBoxContainer"]
 margin_right = 1024.0
-margin_bottom = 44.0
-text = "Parcourir en profondeur"
-__meta__ = {
-"_edit_use_anchors_": true
-}
+margin_bottom = 14.0
 
-[node name="dijkstra" type="Button" parent="."]
-anchor_left = 0.999023
-anchor_right = 0.999023
-margin_left = -223.0
-margin_bottom = 20.0
+[node name="parcourir" type="Button" parent="VBoxContainer"]
+margin_top = 18.0
+margin_right = 1024.0
+margin_bottom = 38.0
 text = "Parcourir le chemin le plus cours"
 __meta__ = {
 "_edit_use_anchors_": true
 }
-[connection signal="pressed" from="largeur" to="." method="_on_largeur_pressed"]
+
+[node name="recommencer" type="Button" parent="VBoxContainer"]
+margin_top = 42.0
+margin_right = 1024.0
+margin_bottom = 62.0
+text = "Recommencer et changer la disposition des tuiles"
+__meta__ = {
+"_edit_use_anchors_": true
+}
 [connection signal="timeout" from="runTime" to="." method="_on_runTime_timeout"]
-[connection signal="pressed" from="recommencer" to="." method="_on_recommencer_pressed"]
-[connection signal="pressed" from="profondeur" to="." method="_on_profondeur_pressed"]
-[connection signal="pressed" from="dijkstra" to="." method="_on_dijkstra_pressed"]
+[connection signal="pressed" from="VBoxContainer/parcourir" to="." method="_on_parcourir_pressed"]
+[connection signal="pressed" from="VBoxContainer/recommencer" to="." method="_on_recommencer_pressed"]
